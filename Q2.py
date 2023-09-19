@@ -1,4 +1,4 @@
-Integers = [21,51,89,63,78]
+Integers = [21,51,89,63,78,32,45,99]
 
 print("The Integers which are greater than 50 are:")
 for Inte in Integers:

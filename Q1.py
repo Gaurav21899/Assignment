@@ -16,6 +16,7 @@ print("The Multiplication of {} and {} is {}".format(num_1, num_2, multiplicatio
 # Division
 Division = num_1/num_2
 print("The Division of {} and {} is {}".format(num_1, num_2, Division))
+
 print("Process Completed")
 
 
