@@ -6,7 +6,7 @@ arcpy.env.workspace = r"D:\Sem-3\Programming for GIS-3\Assignment\Practical_1_Pr
 input_layer = "Wilson_Schools"
 
 # Buffer distances in feet
-buffer_distances = [1000, 1200, 1400]
+buffer_distances = [1000, 1200, 1600]
 
  # Output feature class name
 output_layer = "Wilson_School_MultiRing_Buffer"
