@@ -6,5 +6,5 @@ input_feature = "Wilson_Zoning"
 output_feature = "Wilson_Zone_FeatureToPoint"
 arcpy.management.FeatureToPoint(input_feature, output_feature, "CENTROID")
 
-print("Process Completed")
+print("Procces Completed")
 
