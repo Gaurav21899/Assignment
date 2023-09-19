@@ -1,4 +1,4 @@
-num_1 = 7
+num_1 = 54
 num_2 = 21
 
 # Addition
